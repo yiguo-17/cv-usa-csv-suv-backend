@@ -1,4 +1,6 @@
-
+const getNewCases = function(row){
+  return row[5]
+}
 
 
 
